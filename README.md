@@ -13,8 +13,8 @@ The primary goal was to gain hands-on experience with a lightweight, real-time m
 ---
 
 ## 🛠️ Tools Used
-- **Netdata**: An open-source tool for real-time performance and health monitoring.
-- **Docker**: A platform to build, ship, and run distributed applications in containers.
+- **Netdata** – Open-source tool for real-time performance and health monitoring.
+- **Docker** – Platform to build, ship, and run distributed applications in containers.
 
 ---
 
@@ -27,3 +27,6 @@ The primary goal was to gain hands-on experience with a lightweight, real-time m
    Started a new container in detached mode with the following command:  
    ```bash
    docker run -d --name netdata -p 19999:19999 netdata/netdata
+
+![Netdata Dashboard](netdata_dashboard.png)
+
