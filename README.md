@@ -28,5 +28,5 @@ The primary goal was to gain hands-on experience with a lightweight, real-time m
    ```bash
    docker run -d --name netdata -p 19999:19999 netdata/netdata
 
-![Netdata Dashboard](netdata_dashboard.png)
+![Netdata Dashboard](Screenshot 2025-08-15 141950.png)
 
