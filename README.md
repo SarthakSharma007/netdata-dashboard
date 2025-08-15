@@ -27,6 +27,3 @@ The primary goal was to gain hands-on experience with a lightweight, real-time m
    Started a new container in detached mode with the following command:  
    ```bash
    docker run -d --name netdata -p 19999:19999 netdata/netdata
-
-![Netdata Dashboard](Screenshot 2025-08-15 141950.png)
-
